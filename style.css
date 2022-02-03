@@ -1,6 +1,6 @@
 body {
   background-color: rgba(172, 147, 116, 0.6);
-  font-family: "Lora", "Helvetica", sans-serif;
+  font-family: "Raleway", sans-serif;
   font-size: 15px;
   line-height: 1.4;
   color: #66635e;
@@ -23,7 +23,6 @@ body {
   opacity: 0.8;
   color: rgba(235, 226, 206, 0.884);
   font-size: 28px;
-  font-family: "Lora", sans-serif;
   line-height: 2;
 }
 
